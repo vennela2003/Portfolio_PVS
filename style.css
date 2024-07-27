@@ -558,6 +558,7 @@ footer{
         margin-top: 2em;
     }
     .featured-image{
+        padding-top:50px;
         order: 1;
         justify-content: center;
         min-height: 150px;
